@@ -1,5 +1,5 @@
 from agents import Agent
-from my_agents.agents import knowledge_agent, math_agent
+from agent_definitions import knowledge_agent, math_agent
 
 triage_agent = Agent(
     name="Triage Agent",

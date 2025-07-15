@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+psycopg2-binary
+faker
+pytest
+pytest-asyncio
+httpx
+pytest-cov
+python-dotenv 

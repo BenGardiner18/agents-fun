@@ -1,5 +1,5 @@
 from agents import Agent
-from my_agents.tools import query_knowledge_base, solve_math
+from tools import query_knowledge_base, solve_math
 
 knowledge_agent = Agent(
     name="Knowledge Agent",

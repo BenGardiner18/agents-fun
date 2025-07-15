@@ -1,3 +1,22 @@
+# Common dependencies
+python-dotenv
+
+# Agent system dependencies
 openai-agents
 streamlit
-python-dotenv 
+
+# Backend dependencies
+fastapi
+uvicorn
+psycopg2-binary
+faker
+
+# Testing dependencies
+pytest
+pytest-asyncio
+httpx
+pytest-cov
+
+# Note: For specific component requirements, see:
+# - my_agents/requirements.txt (for agent system)
+# - backend/requirements.txt (for CRM backend) 
